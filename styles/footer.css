@@ -1,0 +1,46 @@
+.footer {
+  background-color: rgba(13, 110, 139, 0.75);
+  color: rgb(229, 247, 148);
+  flex-direction: column;
+  min-height: 100px;
+}
+
+.top_holder h3 {
+  color: pink;
+  font-style: italic;
+  text-align: center;
+  text-decoration: none;
+}
+
+#social_media {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  justify-content: space-around;
+  margin: auto;
+}
+
+#social_media li {
+  display: block;
+  margin: 15px;
+}
+
+.social_media {
+  background: rgba(13, 110, 139, 0.75);
+  border-radius: 7px;
+  width: 50px;
+  height: auto;
+}
+
+.bottom_text h3 {
+  text-align: center;
+}
+
+.signup_form {
+  text-align: center;
+}
+
+#footer_bottom {
+  text-align: center;
+}
